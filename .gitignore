@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift module cache & build artifacts
+.module-cache/
+.build/
+DerivedData/
+
+# Compiled Mach-O binaries and bundles
+Transparency
+test
+test_audio
+*.app/
+*.dSYM/
+*.o
