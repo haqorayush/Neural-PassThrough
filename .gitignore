@@ -16,3 +16,5 @@ test_audio
 *.app/
 *.dSYM/
 *.o
+*.dmg
+dmg_staging/

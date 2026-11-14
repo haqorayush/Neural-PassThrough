@@ -47,6 +47,8 @@ cat <<EOF > "${CONTENTS_DIR}/Info.plist"
     <true/>
     <key>NSMicrophoneUsageDescription</key>
     <string>Transparency requires microphone access to pass through ambient audio with ultra-low latency.</string>
+    <key>NSAlwaysAllowMicrophoneModeControl</key>
+    <true/>
 </dict>
 </plist>
 EOF
